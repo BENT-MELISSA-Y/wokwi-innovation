@@ -1,3 +1,4 @@
+yaml_version: 4
 project:
   title:      "Agence de Voyage"
   description: "Logiciel de décision de vacances basé sur 8 entrées (Beach, Mountains, etc.) utilisant des portes logiques combinatoires."
