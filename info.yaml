@@ -1,7 +1,10 @@
 yaml_version: 6
+
 project:
   title:      "Agence de Voyage"
   description: "Logiciel de décision de vacances basé sur 8 entrées (Beach, Mountains, etc.) utilisant des portes logiques combinatoires."
   author:      "BENTOUMI Melissa Yasmine"
   language:    "Wokwi"
   wokwi_id:    458480760042975233
+  tiles:       "1x1"          # Taille du projet sur la puce
+  top_module:  "tt_um_wokwi_458480760042975233" # Nom standard requis
