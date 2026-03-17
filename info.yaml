@@ -2,7 +2,7 @@ yaml_version: 6
 
 project:
   title:      "Agence de Voyage"
-  description: "Logiciel de décision de vacances basé sur 8 entrées (Beach, Mountains, etc.) utilisant des portes logiques combinatoires."
+  description: "Logiciel de décision de vacances basé sur 8 entrées."
   author:      "BENTOUMI Melissa Yasmine"
   language:    "Wokwi"
   wokwi_id:    458480760042975233
@@ -11,30 +11,6 @@ project:
   top_module:  "tt_um_wokwi_458480760042975233"
 
 pinout:
-  ui:
-    - "Entree 0"
-    - "Entree 1"
-    - "Entree 2"
-    - "Entree 3"
-    - "Entree 4"
-    - "Entree 5"
-    - "Entree 6"
-    - "Entree 7"
-  uo:
-    - "Sortie 0"
-    - "Sortie 1"
-    - "Sortie 2"
-    - "Sortie 3"
-    - "Sortie 4"
-    - "Sortie 5"
-    - "Sortie 6"
-    - "Sortie 7"
-  ua:
-    - "analog 0"
-    - "analog 1"
-    - "analog 2"
-    - "analog 3"
-    - "analog 4"
-    - "analog 5"
-    - "analog 6"
-    - "analog 7"
+  ui: [Entree0, Entree1, Entree2, Entree3, Entree4, Entree5, Entree6, Entree7]
+  uo: [Sortie0, Sortie1, Sortie2, Sortie3, Sortie4, Sortie5, Sortie6, Sortie7]
+  ua: [analog0, analog1, analog2, analog3, analog4, analog5, analog6, analog7]
