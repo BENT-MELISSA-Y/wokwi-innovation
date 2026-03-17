@@ -11,7 +11,7 @@ project:
   top_module:  "tt_um_wokwi_458480760042975233"
 
 pinout:
-  ui_in:
+  ui:
     - "Entree 0"
     - "Entree 1"
     - "Entree 2"
@@ -20,7 +20,7 @@ pinout:
     - "Entree 5"
     - "Entree 6"
     - "Entree 7"
-  uo_out:
+  uo:
     - "Sortie 0"
     - "Sortie 1"
     - "Sortie 2"
