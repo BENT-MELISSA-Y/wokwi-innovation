@@ -9,3 +9,32 @@ project:
   tiles:       "1x1"
   clock_hz:    0
   top_module:  "tt_um_wokwi_458480760042975233"
+
+pinout:
+  ui_in:
+    - "Entree 0"
+    - "Entree 1"
+    - "Entree 2"
+    - "Entree 3"
+    - "Entree 4"
+    - "Entree 5"
+    - "Entree 6"
+    - "Entree 7"
+  uo_out:
+    - "Sortie 0"
+    - "Sortie 1"
+    - "Sortie 2"
+    - "Sortie 3"
+    - "Sortie 4"
+    - "Sortie 5"
+    - "Sortie 6"
+    - "Sortie 7"
+  ua:
+    - "analog 0"
+    - "analog 1"
+    - "analog 2"
+    - "analog 3"
+    - "analog 4"
+    - "analog 5"
+    - "analog 6"
+    - "analog 7"
