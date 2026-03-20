@@ -1,15 +1,13 @@
 yaml_version: 6
-
 project:
-  title:      "Agence de Voyage"
+  title: "AgenceVoyage"
   description: "A combinational logic circuit that selects a holiday destination based on 8 user preferences (Beach, Mountains, etc.)."
-  author:      "BENTOUMI Melissa Yasmine"
-  language:    "Wokwi"
-  wokwi_id:    458480760042975233
-  tiles:       "1x1"
-  clock_hz:    0
-  top_module:  "tt_um_wokwi_458480760042975233"
-
+  author: "Melissa Yasmine"
+  language: "Wokwi"
+  wokwi_id: 458480760042975233
+  tiles: "1x1"
+  clock_hz: 0
+  top_module: "tt_um_wokwi_458480760042975233"
 pinout:
   ui: [in0, in1, in2, in3, in4, in5, in6, in7]
   uo: [out0, out1, out2, out3, out4, out5, out6, out7]
